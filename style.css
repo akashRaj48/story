@@ -1,0 +1,15 @@
+.letter {
+  font-family: "Times New Roman", Times, serif;
+  border: 2px solid black;
+  border-spacing: 0;
+  border-radius: 5px;
+  padding: 20px;
+  color: black;
+  background-color: white;
+}
+.heading {
+  font-size: 20px;
+}
+.header {
+  font-size: 20px;
+}
